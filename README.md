@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/768uqbaat62jtoiw?svg=true)](https://ci.appveyor.com/project/IMFEDOROVHUB/silenium21)
